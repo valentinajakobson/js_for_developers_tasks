@@ -1,0 +1,6 @@
+#animation {
+  height: 150px;
+  width: 150px;
+  background-image: url(runner/runner1.png) 0px 0px;
+  background-repeat: no-repeat;
+}
